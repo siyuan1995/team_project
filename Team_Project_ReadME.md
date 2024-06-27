@@ -62,6 +62,6 @@ So we created branch team_project1 from main, and then every body pulled from th
 
 ## Links of video from team member 
 
-* Carlos: https://uoft-dsi-certificates.slack.com/archives/C079DRV8V5W/p1719372712400129
+* Carlos: https://drive.google.com/file/d/1X1u-y3vMC9kOP62vlLDc4-psMHBhW4Fg/view?usp=sharing
 * Tristan: https://drive.google.com/file/d/1-Yl2pCR39vrY0mIQEbPl1-dBryKWeBs0/view?usp=share_link
-* Hui Li: https://uoft-dsi-certificates.slack.com/archives/C079DRV8V5W/p1719457024326119
+* Hui Li: https://drive.google.com/file/d/1eb8pOF3noRo8drBCHPv-7_Ctesa15Rv5/view?usp=sharing
